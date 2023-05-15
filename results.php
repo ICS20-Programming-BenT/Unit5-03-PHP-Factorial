@@ -8,7 +8,7 @@ $factorialResult = 1;
 $userNum = $_POST['user-number'];
 
 //If: if user enters nothing
-if ((!is_numeric($userNum)) ) {
+if ((!is_numeric($userNum))) {
     echo "Please enter a valid number.";
 }
 
