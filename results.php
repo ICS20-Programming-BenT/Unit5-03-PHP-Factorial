@@ -21,8 +21,8 @@ elseif ($userNum < 0) {
 else {
     //using a do...while loop to find factorial of inputted number
     do {
-      $factorialResult = $factorialResult * $counter;
-      $counter = $counter + 1;
+        $factorialResult = $factorialResult * $counter;
+        $counter = $counter + 1;
     } while ($counter <= $userNum);
 
     //displaying factorial to the screen
