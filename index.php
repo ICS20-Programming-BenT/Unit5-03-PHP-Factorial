@@ -43,7 +43,7 @@
       <br><br>
       
       <!-- Body text -->
-      <?php echo "<p>Welcome! Please input a whole number below, and this webpage use a DO... WHILE loop to give you that number’s factorial.</p>" ?>
+      <?php echo "<p>Welcome! Please input a whole number below, and this webpage uses a DO... WHILE loop to give you that number’s factorial.</p>" ?>
       <?php echo "<h4>Your Input:</h4>" ?>
        
       <!-- Form for user input -->
